@@ -1,0 +1,18 @@
+.title
+{
+    text-align: center;
+}
+
+.value
+{
+    text-align: right;
+    font-size: 32px;
+}
+
+.calc-button
+{
+    width: calc(25% - 4px);
+    height: 64px;
+    font-size: 32px;
+    text-transform: lowercase;
+}
